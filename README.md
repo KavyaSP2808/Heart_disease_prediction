@@ -56,7 +56,6 @@ Matplotlib & Seaborn
 
 Scikit-learn
 
-Jupyter Notebook
 
 📄 License
 
